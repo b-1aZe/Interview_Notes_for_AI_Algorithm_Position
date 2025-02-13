@@ -7,7 +7,7 @@
 
 ## 2.在线阅读
 
-在线阅读链接：[AI Interview Note](https://dongnian.icu/ai_interview_note)
+在线阅读链接：[AI Interview Note](https://b-1aze.github.io/Interview_Notes_for_AI_Algorithm_Position/)
 
 ## 3.目录
 
